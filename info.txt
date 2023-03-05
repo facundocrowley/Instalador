@@ -1,0 +1,18 @@
+Nombre del equipo: DESKTOP-VEMQ17M
+Dirección IP: 192.168.100.6
+Versión de Windows: 10 Professional
+Procesador : Ryzen 5 5600X 6-Core Processor 6 12
+Fiscal: EPS2G
+RAM total: 31.95 GB
+Disco: C:\
+Tamaño total del disco: 465.76 GB
+Espacio libre en el disco: 92.32 GB
+Disco: D:\
+Tamaño total del disco: 222.95 GB
+Espacio libre en el disco: 185.67 GB
+Disco: E:\
+Tamaño total del disco: 232.88 GB
+Espacio libre en el disco: 87.95 GB
+Disco: F:\
+Tamaño total del disco: 465.25 GB
+Espacio libre en el disco: 122.91 GB

@@ -1,0 +1,59 @@
+'''pip install pyodbc
+ python.exe -m pip install --upgrade pip
+https://learn.microsoft.com/es-mx/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver16
+
+Python 3.10.6
+
+
+'''en caso de errores de entornos
+import os
+
+if 'VIRTUAL_ENV' in os.environ:
+    print('El programa se está ejecutando en el entorno virtual:', os.environ['VIRTUAL_ENV'])
+else:
+    print('El programa no se está ejecutando en ningún entorno virtual.')
+
+pip install configparser
+
+pip install PyQt5
+    -----------------------------
+
+
+
+
+
+
+
+
+
+  INSTALAR GIT
+
+
+
+cmd: en la carpeta del proyecto
+ git init     #inicia proyecto
+ git status   # muestra los archivos del proyecto
+        en rojo aun no estan agregados
+ git add        #se agregan los archivos con los q va a laburar
+        git add .  #agrega todos los archivos
+        en verde estan agregados siguiendolos.
+
+ git commit  -m "texto de referencia" te va a dar los comandos para configurar.
+    en el commit   con la i   se pueden dejar mensajes
+    git commit  -m "texto de referencia"
+  :wq  (Wrigt Quit) para acepta el comit
+ git log      muestra info
+ git checkout -- Instador.py  vuelve atras el cambio
+ git diff Instalador.py  muestra las diferencias del archivo
+
+ si creamos un archivo q se llama .gitignore
+ y dentro ponemos los archivos q queremos ignorar al proyecto
+
+ git branch  nombrenuevoproyecto #crea una version alternativa
+ git checkout nombrenuevoproyecto  #cambia a la version nueva
+ git checkout master   #para volver a la version orginal
+
+git remote add origin https://github.com/JuanS1mon/InstaladorTecno.git
+git push -u origin master
+
+git clone https://github.com/JuanS1mon/InstaladorTecno.git  #para recuperar desde github
