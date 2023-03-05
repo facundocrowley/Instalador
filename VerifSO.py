@@ -1,4 +1,4 @@
-def VerifSo()
+def VerifSo():
     import platform
     import psutil
     import socket
@@ -54,3 +54,6 @@ def VerifSo()
 
     # Imprimir mensaje de confirmación
     print("Información guardada en el archivo info.txt")
+
+
+VerifSo()
